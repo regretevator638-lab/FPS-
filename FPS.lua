@@ -16,7 +16,7 @@ local CONFIG = {
 
     -- [ ข้อมูลทั่วไป ]
     HUB_NAME    = "UG Hub SEX",               -- ชื่อโปรแกรม
-    VERSION     = "vกูไม่บอกไอ้ เหี้ย😡",                 -- เวอร์ชั่น
+    VERSION     = "vกูไม่บอกไอ้ เหี้ย",                 -- เวอร์ชั่น
     AUTHOR      = "regretevator638",       -- ชื่อผู้สร้าง
     DISCORD     = "discord.gg/v6Qh69hqd", -- ลิงค์ Discord
 
